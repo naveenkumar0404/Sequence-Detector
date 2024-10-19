@@ -87,7 +87,7 @@ end
 endmodule
 ```
 
-**Testbench for Sequence Detector (Moore and Mealy FSMs):**
+**Testbench for Sequence Detector (Moore FSM):**
 
 ```
 `timescale 1ns / 1ps
@@ -156,7 +156,7 @@ endmodule
 
 **Output Waveform**
 
-![Screenshot 2024-10-17 143037](https://github.com/user-attachments/assets/5a6b6df4-eb4d-4b67-9fad-a83c0b56b7b5)
+![Screenshot (252)](https://github.com/user-attachments/assets/8499d6df-3d70-49bf-b045-a3430bfc0a2e)
 
 **Conclusion:**
 
